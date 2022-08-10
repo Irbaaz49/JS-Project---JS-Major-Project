@@ -20,7 +20,8 @@ Before you jump into the code, step back for a few minutes, look at your require
 
 
 
-## Demo :
+## Problem Solution :
+## Demo
 Click on the link below 
 <p align="center">
 
@@ -30,4 +31,43 @@ I have a say
  </a>
  
  </p align="center">
+ 
+ADD COMMENT :
+ 
+ ![multi](https://user-images.githubusercontent.com/94373243/183841275-066eea42-500b-44e0-94d1-462a42f475a1.gif)
 
+
+ADD NESTED COMMENT : 
+
+![multi](https://user-images.githubusercontent.com/94373243/183842388-ba5d4706-ea41-46c9-a8a0-9d7b110fac55.gif)
+
+
+
+
+Reply / Delete / Add  / Cancel buttons : 
+
+
+![multi](https://user-images.githubusercontent.com/94373243/183843283-5d38432d-d2ed-4f4d-9f52-b9fba1c40a2b.gif)
+
+
+
+
+
+On Re-Load comment is visible, as it is stored in localStorage:
+
+
+![multi](https://user-images.githubusercontent.com/94373243/183843717-8ba2da9e-50ad-4179-ad4f-b33210d4e183.gif)
+
+
+
+
+
+
+RESET BUTTON :
+
+Re-loads the page and removes the saved HTML element from LocalStorage
+
+![multi](https://user-images.githubusercontent.com/94373243/183843963-233d7407-dbe4-4a6f-946e-6d519d7e50f2.gif)
+
+
+ 

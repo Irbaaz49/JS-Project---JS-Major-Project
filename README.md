@@ -17,3 +17,17 @@ As I always say, divide your problem into subsets, then address each subset one 
 7. Comments once added should be persisted on page re-load — this is an enhancement, it can be attended to in the end if you have time.
 
 Before you jump into the code, step back for a few minutes, look at your requirements and assess which parts could use the same piece of code
+
+
+
+## Demo :
+Click on the link below 
+<p align="center">
+
+  <a href="https://cheerful-salmiakki-24156b.netlify.app/" target="_blank">
+I have a say
+    
+ </a>
+ 
+ </p align="center">
+

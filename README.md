@@ -24,7 +24,7 @@ Before you jump into the code, step back for a few minutes, look at your require
 Click on the link below 
 <p align="center">
 
-  <a href="https://irbaaz49.github.io/JS-Project---JS-Major-Project/" target="_blank">
+  <a href="https://irbaaz49.github.io/JS-Project---JS-Major-Project/" >
 I have a say
     
  </a>
